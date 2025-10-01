@@ -1,0 +1,7 @@
+C:\Users\arjay\OneDrive\Documents\HW3\hw3\bin\Debug\hw3.exe.config
+C:\Users\arjay\OneDrive\Documents\HW3\hw3\bin\Debug\hw3.exe
+C:\Users\arjay\OneDrive\Documents\HW3\hw3\bin\Debug\hw3.pdb
+C:\Users\arjay\OneDrive\Documents\HW3\hw3\obj\Debug\hw3.csproj.AssemblyReference.cache
+C:\Users\arjay\OneDrive\Documents\HW3\hw3\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+C:\Users\arjay\OneDrive\Documents\HW3\hw3\obj\Debug\hw3.exe
+C:\Users\arjay\OneDrive\Documents\HW3\hw3\obj\Debug\hw3.pdb
