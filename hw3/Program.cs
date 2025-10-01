@@ -15,7 +15,7 @@ namespace hw3
 
             foreach (char c in input)
             {
-                if (c == ' ' || c == ',') // Skip spaces and commas
+                if (c == ' ' || c == ',') 
                     continue;
 
                 if (freq.ContainsKey(c))
@@ -32,7 +32,6 @@ namespace hw3
             Console.Write("Enter string: ");
             string input = Console.ReadLine();
 
-            // Split multiple strings separated by comma
             string[] parts = input.Split(',');
 
             foreach (string part in parts)
